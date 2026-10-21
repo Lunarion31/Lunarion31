@@ -1,6 +1,7 @@
-# Jamie / lunarion
+# Jamie / lunarion 
+𓆝 𓆟 𓆞 𓆝 𓆟
 
-I make whatever I find interesting at the time.
+I make whatever I find interesting at the time. 
 
 Currently studying software engineering at RIT with a focus on cybersecurity, IT, systems administration, and fullstack development. 
 
