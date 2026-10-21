@@ -20,10 +20,11 @@ Python · Rust · JavaScript · TypeScript · HTML · CSS · Bash
 - **Twitter:** [lunarion21](https://x.com/Lunarion21)
 - **Matrix:** [@lnrin:matrix.org](https://matrix.to/#/@lnrin:matrix.org)
 - **Email:** [lunarion@horsefucker.org](mailto:lunarion@horsefucker.org)
+- **Secondary Email:** [lunarion31@gmail.com](mailto:lunarion31@gmail.com)
 - **Business:** [contact@lunarion31.dev](mailto:contact@lunarion31.dev)
 - **Legal:** *Stop looking here, contact at [legal@sparkforschools.com](mailto:legal@sparkforschools.com). Any legal emails sent to the previous addresses will be <u>ignored</u>.*
 - **Signal:** [lunarion.69](https://signal.me/#eu/27DSIxguyICM7_q32VJmRf4IYaS4UyNBkmRyg01xqWkO1--xjyZEY7Vt3T2XX25G)
-- **PGP Key:** 066C 4059 880C 3B7E 1D54  F7E8 8DF3 AB25 FF0C 088E
+- **PGP:** 066C 4059 880C 3B7E 1D54  F7E8 8DF3 AB25 FF0C 088E
 
 <table>
 <tr>
@@ -54,4 +55,4 @@ WQEA+kGrXXONd+IzEyAv+5jbZx5oVSaoaDPl7pjTXnSrYpgBAJUhLC7Tp5nTfSKn
 
 ---
 
-[website](https://lunarion31.dev/) · discord: @lunarion31
+website: [lunarion31.dev](https://lunarion31.dev/) · discord: @lunarion31 · made with ❤️ 
