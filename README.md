@@ -2,7 +2,7 @@
 
 I make whatever I find interesting at the time.
 
-Currently studying software engineering at RIT with a focus on cybersecurity.
+Currently studying software engineering at RIT with a focus on cybersecurity, IT, systems administration, and fullstack development. 
 
 ### some things I've made
 
