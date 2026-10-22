@@ -22,10 +22,10 @@ Python · Rust · JavaScript · TypeScript · HTML · CSS · Bash
 - **Email:** [lunarion@horsefucker.org](mailto:lunarion@horsefucker.org)
 - **Secondary Email:** [lunarion31@gmail.com](mailto:lunarion31@gmail.com)
 - **Business:** [contact@lunarion31.dev](mailto:contact@lunarion31.dev)
-- **Legal:** *Stop looking here, contact at [legal@sparkforschools.com](mailto:legal@sparkforschools.com). Any legal emails sent to the previous addresses will be <u>ignored</u>.*
+- **Legal:** *Stop looking here, contact [legal@sparkforschools.com](mailto:legal@sparkforschools.com). Any legal emails sent to the previous addresses WILL be <u>ignored **permanently**</u>.*
 - **Signal:** [lunarion.69](https://signal.me/#eu/27DSIxguyICM7_q32VJmRf4IYaS4UyNBkmRyg01xqWkO1--xjyZEY7Vt3T2XX25G)
 - **PGP:** 066C 4059 880C 3B7E 1D54  F7E8 8DF3 AB25 FF0C 088E
-
+### James was here
 <table>
 <tr>
 <td>
