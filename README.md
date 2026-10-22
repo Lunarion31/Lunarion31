@@ -10,6 +10,7 @@ Currently studying software engineering at RIT with a focus on cybersecurity, IT
 - **[Spark](https://sparkforschools.com/)** — building smarter network monitoring for schools with some friends
 - **[Whale](https://github.com/Lunarion31/whale)** — a website that looks like Windows 98 because I thought it'd be funny
 - **[lunarion31.dev](https://lunarion31.dev/)** — my little corner of the internet
+- **[I hate logins](https://github.com/Lunarion31/i-hate-logins)** — An MV3 extension that blocks the infuriating "would you like to log in" screen and restores scrolling + clickability to a site. 
 
 ### things I use
 
