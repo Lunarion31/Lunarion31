@@ -11,6 +11,8 @@ Currently studying software engineering at RIT with a focus on cybersecurity, IT
 - **[Whale](https://github.com/Lunarion31/whale)** — a website that looks like Windows 98 because I thought it'd be funny
 - **[lunarion31.dev](https://lunarion31.dev/)** — my little corner of the internet
 - **[I hate logins](https://github.com/Lunarion31/i-hate-logins)** — An MV3 extension that blocks the infuriating "would you like to log in" screen and restores scrolling + clickability to a site. 
+- **[Pricing Peek](https://github.com/Lunarion31/pricing-peek)** - A google extension that searches the webpage you're on for any pricing requirements an app may come with.
+- **[Terms Meter](https://github.com/Lunarion31/Terms-Meter)** - A google extension that connects to the ToSDR API and returns a simple meter that shows the severity of a page's agreements. 
 
 ### things I use
 
