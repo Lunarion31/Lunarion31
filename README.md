@@ -13,6 +13,7 @@ Currently studying software engineering at RIT with a focus on cybersecurity, IT
 - **[I hate logins](https://github.com/Lunarion31/i-hate-logins)** — An MV3 extension that blocks the infuriating "would you like to log in" screen and restores scrolling + clickability to a site. 
 - **[Pricing Peek](https://github.com/Lunarion31/pricing-peek)** - A google extension that searches the webpage you're on for any pricing requirements an app may come with.
 - **[Terms Meter](https://github.com/Lunarion31/Terms-Meter)** - A google extension that connects to the ToSDR API and returns a simple meter that shows the severity of a page's agreements. 
+- **[deletemystuff](https://github.com/Lunarion31/deletemystuff)** - A locally-run, self-hosted service that sends emails to data brokers for information deletion. Includes manual review fallback and accounts for local state laws. 
 
 ### things I use
 
