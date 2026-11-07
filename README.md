@@ -15,9 +15,9 @@ Currently studying software engineering at RIT with a focus on cybersecurity, IT
 - **[Terms Meter](https://github.com/Lunarion31/Terms-Meter)** - A google extension that connects to the ToSDR API and returns a simple meter that shows the severity of a page's agreements. 
 - **[deletemystuff](https://github.com/Lunarion31/deletemystuff)** - A locally-run, self-hosted service that sends emails to data brokers for information deletion. Includes manual review fallback and accounts for local state laws. 
 
-### things I use
+### Languages I use (I will forget these)
 
-Python · Rust · JavaScript · TypeScript · HTML · CSS · Bash
+Python · Rust · JavaScript · TypeScript · HTML · CSS · Bash · Assembly · Batch · C · C++ · CoffeeScript · GLSL · Go · Java · Kotlin · Metal · Nix · Objective-C · Objective-C++ · PHP · PL/pgSQL · PowerShell · Ruby · Standard ML · Swift
 
 ### contact me 
 - **Bluesky:** [lunarion31.bsky.social](https://bsky.app/profile/lunarion31.bsky.social)
