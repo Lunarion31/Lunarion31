@@ -19,6 +19,9 @@ Currently studying software engineering at RIT with a focus on cybersecurity, IT
 
 Python · Rust · JavaScript · TypeScript · HTML · CSS · Bash · Assembly · Batch · C · C++ · CoffeeScript · GLSL · Go · Java · Kotlin · Metal · Nix · Objective-C · Objective-C++ · PHP · PL/pgSQL · PowerShell · Ruby · Standard ML · Swift
 
+### Languages I can speak (real languages)
+English · Mandarin · German · French · Spanish · ASL 
+
 ### contact me 
 - **Bluesky:** [lunarion31.bsky.social](https://bsky.app/profile/lunarion31.bsky.social)
 - **Twitter:** [lunarion21](https://x.com/Lunarion21)
